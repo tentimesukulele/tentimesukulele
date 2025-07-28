@@ -17,8 +17,8 @@
 </p>
 <h3>Projects I worked on, work on or finished<br><br></h3>
 <div>
-  <h4 style="display: inline; margin-right: 10px;">Angležko</h4>
-  <h5 style="display: inline;">V Ustvarjanju</h5>
+  <h4>Angležko</h4>
+  <h5>V Ustvarjanju</h5>
 </div>
 ------------
 
