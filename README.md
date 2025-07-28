@@ -16,7 +16,12 @@
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 <h3 allign="center">Projects I worked on, work on or finished:</h3><br><br>
-<p align="center"><strong>Angležko</strong> &nbsp;&nbsp; <em>V ustvarjanju</em></p>
+<p align="center"><strong>Angležko</strong> &nbsp;&nbsp; <em>In development</em></p>
+<p align="center"><strong>Luxz Cops VS Robbers</strong> &nbsp;&nbsp; <em>Stopped developing it</em></p>
+<p align="center"><strong>SloMafiaRP</strong> &nbsp;&nbsp; <em>Stopped developing it</em></p>
+<p align="center"><strong>Freeway RP</strong> &nbsp;&nbsp; <em>Owner shut it down</em></p>
+<p align="center"><strong>Luxz Maps</strong> &nbsp;&nbsp; <em>Developing/creating maps</em></p>
+<h3 allign="center">I created more projects, but there are a lot but most unfinished</h3><br><br>
 
 ------------
 
