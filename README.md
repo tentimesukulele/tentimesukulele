@@ -17,6 +17,7 @@
 </p>
 <h3 allign="center">Projects I worked on, work on or finished:</h3><br><br>
 <p align="center"><strong>Angležko</strong> &nbsp;&nbsp; <em>In development</em></p>
+<p align="center"><strong>SloLang</strong> &nbsp;&nbsp; <em>Finished</em></p>
 <p align="center"><strong>Luxz Cops VS Robbers</strong> &nbsp;&nbsp; <em>Stopped developing it</em></p>
 <p align="center"><strong>SloMafiaRP</strong> &nbsp;&nbsp; <em>Stopped developing it</em></p>
 <p align="center"><strong>Freeway RP</strong> &nbsp;&nbsp; <em>Owner shut it down</em></p>
