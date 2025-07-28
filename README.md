@@ -15,7 +15,7 @@
 <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
-<h3 allign="center">Projects I worked on, work on or finished:<br><br></h3>
+<h3 allign="center">Projects I worked on, work on or finished:</h3><br><br>
 <p align="center"><strong>Angležko</strong> &nbsp;&nbsp; <em>V ustvarjanju</em></p>
 
 ------------
