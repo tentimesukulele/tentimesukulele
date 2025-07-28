@@ -17,8 +17,9 @@
 </p>
 <h3>Projects I worked on, work on or finished<br><br></h3>
 <p>
-  <span style="font-size: 1.2em; font-weight: bold; margin-right: 10px;">Angležko</span>
-  <span style="font-size: 1em; font-style: italic;">V Ustvarjanju</span>
+  <strong style="font-size: 1.2em; margin-right: 10px;">Angležko</strong>
+  <em style="font-size: 1em;">V Ustvarjanju</em>
 </p>
+
 ------------
 
