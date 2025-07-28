@@ -21,7 +21,7 @@
 <p align="center"><strong>SloMafiaRP</strong> &nbsp;&nbsp; <em>Stopped developing it</em></p>
 <p align="center"><strong>Freeway RP</strong> &nbsp;&nbsp; <em>Owner shut it down</em></p>
 <p align="center"><strong>Luxz Maps</strong> &nbsp;&nbsp; <em>Developing/creating maps</em></p>
-<h3 allign="center">I created more projects, but there are a lot but most unfinished</h3><br><br>
+<h4 allign="center">I created more projects, there are a lot but most unfinished.</h4><br><br>
 
 ------------
 
